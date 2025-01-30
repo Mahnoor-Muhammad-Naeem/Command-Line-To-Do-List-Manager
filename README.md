@@ -20,7 +20,7 @@ Python 3.x is installed on your system.
 Clone the repository or download the script:
 
 ```bash
-git clone https://github.com/Mahnoor-Muhammad-Naeem/command-line-todo-manager.git
+git clone https://github.com/Mahnoor-Muhammad-Naeem/command-line-to-Do-Manager.git
 cd command-line-todo-manager
 ```
 Install Python (if not already installed). You can download it from [ python.org](https://www.python.org/)
@@ -35,7 +35,6 @@ Follow the prompts in the command-line interface to manage your tasks.
 ### File Structure
 
 ```bash
-.
 ├── tasks.json           # JSON file to store tasks
 ├── todo_manager.py      # Main Python script
 ```
