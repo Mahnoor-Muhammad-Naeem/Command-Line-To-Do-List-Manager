@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Buy groceries",
+        "completed": true
+    },
+    {
+        "title": "Complete Python project",
+        "completed": false
+    },
+    {
+        "title": "Prepare for meeting",
+        "completed": false
+    },
+    {
+        "title": "Write a blog post",
+        "completed": false
+    },
+    {
+        "title": "Exercise for 30 minutes",
+        "completed": true
+    },
+    {
+        "title": "Study for the exam",
+        "completed": false
+    },
+    {
+        "title": "Organize workspace",
+        "completed": false
+    },
+    {
+        "title": "Call a friend",
+        "completed": false
+    },
+    {
+        "title": "Read a book chapter",
+        "completed": false
+    },
+    {
+        "title": "Clean the house",
+        "completed": false
+    },
+    {
+        "title": "Reply to emails",
+        "completed": false
+    },
+    {
+        "title": "Brainstorm new project ideas",
+        "completed": false
+    },
+    {
+        "title": "Organize bookshelf",
+        "completed": false
+    },
+    {
+        "title": "Research AI algorithms",
+        "completed": false
+    },
+    {
+        "title": "Test app for bugs",
+        "completed": false
+    },
+    {
+        "title": "Update LinkedIn profile",
+        "completed": false
+    },
+    {
+        "title": "Set up Docker containers",
+        "completed": false
+    },
+    {
+        "title": "Prepare for project presentation",
+        "completed": false
+    },
+    {
+        "title": "Review code for team project",
+        "completed": false
+    },
+    {
+        "title": "Complete cloud computing assignment",
+        "completed": false
+    },
+    {
+        "title": "Write a daily journal entry",
+        "completed": false
+    },
+    {
+        "title": "Write a daily journal entry",
+        "completed": false
+    }
+]
